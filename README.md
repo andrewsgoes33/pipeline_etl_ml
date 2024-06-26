@@ -20,5 +20,6 @@ Neste projeto focamos em buscar dados dos preços de Tênis Esportivos dentro do
 
 Para montar a estratégia de pricing.
 
+URL: https://lista.mercadolivre.com.br/tenis-corrida-masculino
 ![alt text](image.png)
 
